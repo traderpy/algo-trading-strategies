@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /strategies/sma_crossover/account_credentials.py
+/live_trading/sma_crossover/
 /live_trading/
